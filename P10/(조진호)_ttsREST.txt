@@ -1,0 +1,14 @@
+C:\Users\USER\konyang>curl -X GET -u "apikey:X5s7TGxnudTyU0ggqQ-oC0lATUtTmtS0qx4j7QRbrBtA" --output TTS.wav "https://stream.watsonplatform.net/text-to-speech/api/v1/synthesize?accept=audio%2Fwav&text=%ED%8C%8C%EC%9D%BC%20%EB%B3%B4%EB%83%85%EB%8B%88%EB%8B%A4&voice=ko-KR_YunaVoice"
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 37838  100 37838    0     0  37838      0  0:00:01  0:00:01 --:--:-- 19374
+
+C:\Users\USER\konyang>dir *.wav
+ C 드라이브의 볼륨에는 이름이 없습니다.
+ 볼륨 일련 번호: F2DA-65DC
+
+ C:\Users\USER\konyang 디렉터리
+
+2021-05-12  오후 12:20            37,838 TTS.wav
+               1개 파일              37,838 바이트
+               0개 디렉터리  79,097,856,000 바이트 남음
